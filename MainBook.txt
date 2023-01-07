@@ -1,0 +1,11 @@
+Economics,Jason Welker,Nonfiction,80,2,Y,1,0
+IB Physics,K. A. Tsokos,Nonfiction,100,1,N,1,1
+Outliers,Malcolm Gladwell,Nonfiction,60,5,Y,1,2
+BookToDelete,Mr. Delete,Poetry,1,2,Y,1,3
+Othello,William Shakespeare,Drama,65,5,Y,1,4
+One Piece!,Oda,Fantasy,80,3,Y,1,5
+Freakonomics,Steven Levitt,Nonfiction,60,3,Y,1,6
+Talking to Strangers,Malcom Gladwell,Science Fiction,85,2,Y,1,7
+Deep Work,Cal Newport,Nonfiction,56,2,Y,1,8
+ab,a,Poetry,12,3,Y,1,9
+asd,asd,Nonfiction,35,1,N,1,10

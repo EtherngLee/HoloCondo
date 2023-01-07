@@ -1,0 +1,11 @@
+C,12,E-Therng Lee,0123466149,etlee22@iskl.edu.my,3,Y,0
+A,1,Nasakun,0123456789,nasakun@gmail.com,3,Y,1
+B,2,Jacob Sheikh,0123232323,jacob@gmail.com,2,Y,2
+C,1,Yuxuan,0121385028,yseah22@iskl.edu.my,2,Y,3
+D,1,Auritro,0125923753,asami22@iskl.edu.my,1,Y,4
+D,2,Delepat,0101010101,dele@gmail.com,0,N,5
+A,20,Sean Kim,0124359687,skim22@iskl.edu.my,5,Y,6
+A,5,ISKL,123456792,iskl@iskl.edu,3,Y,7
+A,2,Gregory,1325476980,gregory22@iskl.edu.my,6,Y,8
+A,3,Jin Woo Moon,0123456779,jwmoon22@iskl.edu.my,7,Y,9
+B,1,David Arulsamy,0123456789,darulsamy@iskl.edu.my,8,Y,10

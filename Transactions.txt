@@ -1,0 +1,163 @@
+Member,0,6,20/09/2021
+Member,0,0,20/09/2021
+Member,0,3,20/09/2021
+Member,1,3,20/09/2021
+Member,2,2,20/09/2021
+Member,3,2,20/09/2021
+Member,4,1,20/09/2021
+Borrow,1,0,20/10/2021
+Borrow,1,2,20/10/2021
+Borrow,1,1,20/10/2021
+Borrow,1,2,20/10/2021
+Borrow,1,6,20/10/2021
+Return,1,0,20/09/2021
+Return,1,2,20/09/2021
+Return,1,1,20/09/2021
+Renew,1,3,19/11/2021
+Return,1,3,20/09/2021
+Return,1,17,20/09/2021
+Borrow,0,0,20/10/2021
+Borrow,1,0,20/10/2021
+Borrow,2,1,11/10/2021
+Borrow,3,2,11/10/2021
+Borrow,4,2,07/10/2021
+Borrow,0,2,20/10/2021
+Renew,0,0,19/11/2021
+Delete,Book,3,20/09/2021
+Restore,Book,3,20/09/2021
+Restore,Membership,4,21/09/2021
+Delete,Membership,4,21/09/2021
+Restore,Membership,4,21/09/2021
+Delete,Membership,4,21/09/2021
+Restore,Patron,5,21/09/2021
+Delete,Patron,5,21/09/2021
+Return,0,0,21/09/2021
+Member,0,2,21/09/2021
+Member,0,3,21/09/2021
+Borrow,0,8,21/10/2021
+Member,3,3,21/09/2021
+Member,3,2,21/09/2021
+Delete,Patron,6,21/09/2021
+Restore,Patron,6,21/09/2021
+Delete,Book,9,21/09/2021
+Restore,Book,9,21/09/2021
+Borrow,6,9,05/10/2021
+Hold,0,9,21/09/2021
+Member,6,1,21/09/2021
+Delete,Membership,5,21/09/2021
+Restore,Membership,5,21/09/2021
+Member,6,5,21/09/2021
+Renew,6,9,10/12/2021
+Renew,6,9,10/12/2021
+Renew,6,24,10/12/2021
+Return,6,24,21/09/2021
+Return,6,24,21/09/2021
+Return,6,24,21/09/2021
+Return,6,24,21/09/2021
+Return,6,24,21/09/2021
+Borrow,6,9,31/10/2021
+Return,6,24,21/09/2021
+Borrow,6,9,31/10/2021
+Borrow,6,9,31/10/2021
+Return,6,24,21/09/2021
+Restore,Patron,0,21/09/2021
+Borrow,0,9,21/10/2021
+Fee Paid Member,3,2,21/09/2021
+Borrow,6,5,31/10/2021
+Damage,6,14,21/09/2021
+Return,6,14,21/09/2021
+Fee Paid Damage,6,14,21/09/2021
+Return,0,24,22/09/2021
+Restore,Patron,0,22/09/2021
+Restore,Patron,0,22/09/2021
+Borrow,0,9,22/10/2021
+Borrow,0,7,22/10/2021
+Borrow,1,7,22/10/2021
+Hold,3,7,22/09/2021
+Return,0,20,22/09/2021
+Hold,0,7,22/09/2021
+Delete,Patron,7,23/09/2021
+Restore,Patron,7,23/09/2021
+Borrow,7,6,07/10/2021
+Renew,7,6,21/10/2021
+Renew,7,6,21/10/2021
+Renew,7,6,21/10/2021
+Damage,7,17,23/09/2021
+Return,7,17,23/09/2021
+Fee Paid Damage,7,17,23/09/2021
+Member,7,3,23/09/2021
+Fee Paid Member,7,3,23/09/2021
+Restore,Patron,0,23/09/2021
+Restore,Patron,0,23/09/2021
+Renew,0,2,22/11/2021
+Renew,0,2,22/11/2021
+Renew,0,2,22/11/2021
+Renew,0,2,22/11/2021
+Renew,0,2,22/11/2021
+Renew,3,2,04/11/2021
+Renew,0,4,22/11/2021
+Renew,0,8,22/11/2021
+Renew,6,24,12/12/2021
+Fee Paid Overdue,0,0,24/09/2021
+Fee Paid Overdue,0,0,24/09/2021
+Fee Paid Overdue,0,0,24/09/2021
+Fee Paid Overdue,0,0,24/09/2021
+Fee Paid Overdue,0,0,24/09/2021
+Fee Paid Overdue,0,0,24/09/2021
+Fee Paid Overdue,0,0,24/09/2021
+Fee Paid Overdue,0,0,24/09/2021
+Fee Paid Overdue,0,0,24/09/2021
+Fee Paid Overdue,0,0,24/09/2021
+Member,8,6,25/09/2021
+Borrow,8,11,09/10/2021
+Restore,Patron,0,25/09/2021
+Restore,Patron,0,25/09/2021
+Borrow,0,11,25/10/2021
+Hold,2,11,25/09/2021
+Renew,8,11,23/10/2021
+Renew,8,11,23/10/2021
+Renew,8,11,23/10/2021
+Renew,8,11,23/10/2021
+Renew,8,11,23/10/2021
+Renew,8,11,23/10/2021
+Renew,8,11,23/10/2021
+Renew,8,29,23/10/2021
+Damage,8,29,25/09/2021
+Return,8,29,25/09/2021
+Fee Paid Damage,8,29,25/09/2021
+Fee Paid Member,8,6,25/09/2021
+Delete,Patron,9,25/09/2021
+Restore,Patron,9,25/09/2021
+Delete,Membership,7,25/09/2021
+Delete,Membership,7,25/09/2021
+Restore,Membership,7,25/09/2021
+Member,9,7,25/09/2021
+Borrow,9,0,07/10/2021
+Hold,0,0,25/09/2021
+Renew,9,0,19/10/2021
+Damage,9,0,25/09/2021
+Return,9,0,25/09/2021
+Fee Paid Member,9,7,25/09/2021
+Fee Paid Damage,9,0,25/09/2021
+Delete,Book,9,25/09/2021
+Restore,Book,9,25/09/2021
+Delete,Patron,10,27/09/2021
+Restore,Patron,10,27/09/2021
+Delete,Patron,10,27/09/2021
+Delete,Patron,10,27/09/2021
+Delete,Book,10,27/09/2021
+Restore,Book,10,27/09/2021
+Delete,Book,10,27/09/2021
+Restore,Book,10,27/09/2021
+Delete,Membership,8,27/09/2021
+Restore,Patron,10,27/09/2021
+Restore,Membership,8,27/09/2021
+Member,10,8,27/09/2021
+Borrow,10,10,13/10/2021
+Hold,0,10,27/09/2021
+Renew,10,34,29/10/2021
+Damage,10,34,27/09/2021
+Return,10,34,27/09/2021
+Borrow,0,10,27/10/2021
+Fee Paid Member,10,8,27/09/2021
+Fee Paid Damage,10,34,27/09/2021
